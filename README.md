@@ -19,11 +19,13 @@ API simples desenvolvida com **FastAPI** e **MySQL** para realizar operações d
 
 ## 📂 Estrutura do Projeto
 📦 seu_projeto
- main.py # Arquivo principal da API
- crud.py # Funções de CRUD no banco
- database.py # Conexão com o MySQL
- requirements.txt # Dependências do projeto
- README.md # Documentação
+- main.py → Arquivo principal da API
+- crud.py → Funções de CRUD no banco
+- database.py → Conexão com o MySQL
+- requirements.txt → Dependências do projeto
+- README.md → Documentação
+
+ 
 
 ## ⚙️ Configuração do Banco de Dados
 
