@@ -44,9 +44,6 @@ Edite o arquivo database.py com suas credenciais:
 📦 Instalação
 Clone o repositório:
 
-bash
-Copiar
-Editar
 git clone https://github.com/seuusuario/seu-repositorio.git
 cd seu-repositorio
 Crie e ative um ambiente virtual:
